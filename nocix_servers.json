@@ -1,0 +1,1601 @@
+{
+  "scraped_at": "2025-12-01T21:17:41.995968",
+  "total_servers": 110,
+  "servers": [
+    {
+      "category": "Dedicated",
+      "name": "AMD",
+      "cpu": "AMD",
+      "ram": "",
+      "storage": "",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Dedicated",
+      "name": "AMD Legacy Quadcore",
+      "cpu": "AMD Legacy Quadcore 3Ghz or faster",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "$15.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "AMD Legacy Sexcore",
+      "cpu": "AMD Legacy Sexcore 2.7Ghz or faster",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "$20.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "AMD Legacy Octacore",
+      "cpu": "AMD Legacy Octacore 3.1Ghz / 3.4Ghz",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "$35.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "AMD Ryzen 7 5800H",
+      "cpu": "Cores/16 Threads 32GB DDR4 1TB NVME",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$40.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Threadripper 1950x 32GB + 2x 480GB SSD Preconfig",
+      "cpu": "Core / 32 Threads 32GB DDR4",
+      "ram": "",
+      "storage": "1950x 32GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$99.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "AMD Opteron",
+      "cpu": "AMD Opteron",
+      "ram": "",
+      "storage": "",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Opteron 2373 240GB SSD+ 2TB Preconfigured",
+      "cpu": "Processors 8 Physical Cores 32GB DDR2",
+      "ram": "",
+      "storage": "2373 240GB SSD",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$25.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Opteron 6128 480GB SSD + 3TB HDD Preconfig",
+      "cpu": "processors 16 Cores / 16 Threads",
+      "ram": "",
+      "storage": "6128 480GB SSD",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$35.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Intel Xeon",
+      "cpu": "Intel Xeon",
+      "ram": "",
+      "storage": "",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon 5150 120GB SSD + 1TB Preconfigured",
+      "cpu": "processors 4 Cores / 4 Threads",
+      "ram": "",
+      "storage": "5150 120GB SSD",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$15.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon 5420 240GB SSD + 2TB Preconfigured",
+      "cpu": "Processors 8 Cores / 8 Threads",
+      "ram": "",
+      "storage": "5420 240GB SSD",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$25.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon 5520 240GB SSD + 4TB Preconfig",
+      "cpu": "processors 8 Cores / 16 threads",
+      "ram": "",
+      "storage": "5520 240GB SSD",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$35.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon 5639 1TB SSD Preconfig",
+      "cpu": "Xeon 5639 1TB SSD Preconfig 2.13GHz",
+      "ram": "",
+      "storage": "5639 1TB SSD",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$40.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon 5650 1TB SSD + 3TB HDD Preconfig",
+      "cpu": "Cores / 24 threads 72GB DDR3",
+      "ram": "",
+      "storage": "5650 1TB SSD",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$50.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon E5-2683v4 128GB 2x1TB SSD Preconfig",
+      "cpu": "Xeon E5-2683v4 128GB 2x1TB SSD Preconfig",
+      "ram": "",
+      "storage": "4 128GB ",
+      "bandwidth": "128GB 2x1TB SSD Preconfig 2.1GHz / 3GHz Turbo 32 Cores / 64 threads 128GB DDR4 2x 1TB SSD •  1Gbit Unmetered Transfer",
+      "port_speed": "1Gbit",
+      "price": "$77.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon Gold 6130 128GB 2TB NVME Preconfig",
+      "cpu": "Xeon Gold 6130 128GB 2TB NVME",
+      "ram": "",
+      "storage": "6130 128GB ",
+      "bandwidth": "128GB 2TB NVME Preconfig 2.1GHz / 3GHz Turbo 32 Cores / 64 threads 128GB DDR4 2TB NVME •  10Gbit Port •  1Gbit Unmetered Transfer",
+      "port_speed": "10Gbit",
+      "price": "$90.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon E5-2696v3 128GB 2x2TB SSD Preconfig",
+      "cpu": "Xeon E5-2696v3 128GB 2x2TB SSD Preconfig",
+      "ram": "",
+      "storage": "3 128GB ",
+      "bandwidth": "128GB 2x2TB SSD Preconfig 2.30GHz / 3.6GHz Turbo 36 Cores / 72 threads 128GB DDR4 2x 2TB SSD •  1Gbit Unmetered Transfer",
+      "port_speed": "1Gbit",
+      "price": "$100.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon E5-2696v3 128GB 2x4TB SSD Preconfig",
+      "cpu": "Xeon E5-2696v3 128GB 2x4TB SSD Preconfig",
+      "ram": "",
+      "storage": "3 128GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$120.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon E5-2683v4 256GB 2x4TB SSDs Preconfig",
+      "cpu": "Xeon E5-2683v4 256GB 2x4TB SSDs Preconfig",
+      "ram": "",
+      "storage": "4 256GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$200.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon Plat 8164 256GB 4TB NVME Preconfig",
+      "cpu": "Cores / 104 threads 256GB DDR4",
+      "ram": "",
+      "storage": "8164 256GB ",
+      "bandwidth": "256GB 4TB NVME Preconfig 2.0GHz / 3.8GHz Turbo 52 Cores / 104 threads 256GB DDR4 4TB NVME •  10Gbit Port •  1Gbit Unmetered Transfer",
+      "port_speed": "10Gbit",
+      "price": "$200.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon Plat 8171M 512GB 8TB NVME Preconfig",
+      "cpu": "Xeon Plat 8171M 512GB 8TB NVME",
+      "ram": "",
+      "storage": "512GB ",
+      "bandwidth": "512GB 8TB NVME Preconfig 2.6GHz / 3.7GHz Turbo 52 Cores / 104 threads 512GB DDR4 8TB NVME •  10Gbit Port •  1Gbit Unmetered Transfer",
+      "port_speed": "10Gbit",
+      "price": "$350.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon E5-2683v4 512GB 2x8TB SSDs Preconfig",
+      "cpu": "Xeon E5-2683v4 512GB 2x8TB SSDs Preconfig",
+      "ram": "",
+      "storage": "4 512GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$400.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Intel Core Series",
+      "cpu": "Intel Core Series",
+      "ram": "",
+      "storage": "",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Dedicated",
+      "name": "Intel Core2Duo Preconfigured",
+      "cpu": "Intel Core2Duo Preconfigured 1.6GHz or faster",
+      "ram": "",
+      "storage": "4GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "$9.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "I7-2600 Preconfigured",
+      "cpu": "processor 4 cores / 8 threads",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$20.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "I3-3220 2TB Preconfigured",
+      "cpu": "Core/4 Threads 3.3Ghz 16GB DDR3 2TB",
+      "ram": "",
+      "storage": "3220 2TB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$20.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "i5-750 Preconfigured",
+      "cpu": "processor 4 cores / 4 threads",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$20.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "I7-4790 Preconfigured",
+      "cpu": "Cores / 8 Threads 16GB DDR3",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$30.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "I7-2600 120GB + 1TB Preconfigured",
+      "cpu": "processor 4 cores / 8 threads",
+      "ram": "",
+      "storage": "2600 120GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$30.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "I5 3470 2TB Preconfigured",
+      "cpu": "Cores/4 Threads 3.4GHz / 3.8GHz turbo",
+      "ram": "",
+      "storage": "3470 2TB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$35.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "i7-8700K 32GB + 2x480GB SSD Preconfig",
+      "cpu": "Cores / 12 Threads 32GB DDR4",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$75.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free",
+        "Instant"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Ryzen 5 3500X Custom",
+      "cpu": "Ryzen 5 3500X Custom 3.6GHz /",
+      "ram": "32GB RAM",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$59.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Ryzen 5 5600X Custom",
+      "cpu": "Ryzen 5 5600X Custom 3.7GHz /",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$69.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Ryzen Threadripper 3990X Custom",
+      "cpu": "Ryzen Threadripper 3990X Custom 2.9GHz /",
+      "ram": "32GB RAM",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$499.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon 5150 Custom",
+      "cpu": "processors 4 Cores / 4 Threads",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$15.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon 5520 Custom",
+      "cpu": "Processors 8 Cores / 16 Threads",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$25.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon 5639 Custom",
+      "cpu": "Processors 12 Cores / 24 Threads",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$30.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon 5650 Custom",
+      "cpu": "Xeon 5650 Custom 2.66GHz / 3.06GHz",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$50.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Xeon E3-1230v2 Custom",
+      "cpu": "Xeon E3-1230v2 Custom 3.2Ghz / 3.6Ghz",
+      "ram": "16GB RAM",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$55.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon E5-2660 Custom",
+      "cpu": "Xeon E5-2660 Custom Dual E5-2660 16",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$59.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Dual Xeon E5-2670 12-Bay Custom",
+      "cpu": "Xeon E5-2670 12-Bay Custom 2.6GHz /",
+      "ram": "32GB RAM",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$59.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Dedicated",
+      "name": "Xeon E5-2683v4 Custom",
+      "cpu": "Xeon E5-2683v4 Custom Xeon E5-2683v4 16",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "$75.00 ",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Setup",
+        "Free"
+      ]
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "Dual Xeon 5150 Custom",
+      "cpu": "Xeon 5150 Custom 2.66Ghz 2 processors",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "16GB DDR2 ECC 1TB HDD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$15.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Free"
+      ]
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "Dual Xeon 5520 Custom",
+      "cpu": "Xeon 5520 Custom 2.26Ghz 2 Processors",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "16GB DDR3 ECC 2x 2TB SATA Transfer",
+      "port_speed": "1Gbit",
+      "price": "$25.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Free"
+      ]
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "Dual Xeon 5639 Custom",
+      "cpu": "Xeon 5639 Custom 2.13Ghz 2 Processors",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "16GB DDR3 ECC 2x 2TB SATA Transfer",
+      "port_speed": "1Gbit",
+      "price": "$30.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Free"
+      ]
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "Dual Xeon 5650 Custom",
+      "cpu": "Xeon 5650 Custom 2.66GHz / 3.06GHz",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "16GB DDR3 ECC 4TB SATA Transfer",
+      "port_speed": "1Gbit",
+      "price": "$50.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Free"
+      ]
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "Dual Xeon E5-2670 12-Bay Custom",
+      "cpu": "Xeon E5-2670 12-Bay Custom 2.6GHz /",
+      "ram": "32GB RAM",
+      "storage": "32GB ",
+      "bandwidth": "32GB RAM 4TB HDD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$59.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "Ryzen 5 3500X Custom",
+      "cpu": "Ryzen 5 3500X Custom 3.6GHz /",
+      "ram": "32GB RAM",
+      "storage": "32GB ",
+      "bandwidth": "32GB RAM 4TB HDD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$59.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Free"
+      ]
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "Dual Xeon E5-2660 Custom",
+      "cpu": "Xeon E5-2660 Custom Dual E5 2660",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "32GB ECC 480GB SSD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$59.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Free"
+      ]
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "Ryzen 5 5600X Custom",
+      "cpu": "Ryzen 5 5600X Custom 3.7GHz /",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "32GB 4TB HDD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$69.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Free"
+      ]
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "16GB DDR2 ECC",
+      "cpu": "",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "1TB HDD",
+      "cpu": "",
+      "ram": "",
+      "storage": "1TB HDD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "Transfer:",
+      "cpu": "",
+      "ram": "",
+      "storage": "1Gb",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "16GB DDR3 ECC",
+      "cpu": "",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "2x 2TB SATA",
+      "cpu": "",
+      "ram": "",
+      "storage": "2x 2TB SATA",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "4TB SATA",
+      "cpu": "",
+      "ram": "",
+      "storage": "4TB SATA",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "32GB RAM",
+      "cpu": "",
+      "ram": "32GB RAM",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "4TB HDD",
+      "cpu": "",
+      "ram": "",
+      "storage": "4TB HDD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "32GB ECC",
+      "cpu": "",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "480GB SSD",
+      "cpu": "",
+      "ram": "",
+      "storage": "480GB SSD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Custom Dedicated Servers",
+      "name": "32GB",
+      "cpu": "",
+      "ram": "",
+      "storage": "32GB",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Game Dedicated Servers",
+      "name": "I5 3470 2TB Preconfigured",
+      "cpu": "Cores/4 Threads 3.4GHz / 3.8GHz turbo",
+      "ram": "",
+      "storage": "3470 2TB ",
+      "bandwidth": "2TB Preconfigured 4 Cores/4 Threads 3.4GHz / 3.8GHz turbo 16GB DDR3 2TB Transfer",
+      "port_speed": "1Gbit",
+      "price": "$35.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Game Dedicated Servers",
+      "name": "16GB DDR3",
+      "cpu": "",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Game Dedicated Servers",
+      "name": "2TB",
+      "cpu": "",
+      "ram": "",
+      "storage": "2TB",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Game Dedicated Servers",
+      "name": "Transfer:",
+      "cpu": "",
+      "ram": "",
+      "storage": "1Gb",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Enterprise Dedicated Servers",
+      "name": "Dual Opteron 6128 480GB SSD + 3TB HDD Preconfig",
+      "cpu": "processors 16 Cores / 16 Threads",
+      "ram": "",
+      "storage": "6128 480GB SSD",
+      "bandwidth": "480GB SSD + 3TB HDD Preconfig 2.0Ghz 2 processors 16 Cores / 16 Threads 32GB DDR3 480 SSD + 3TB SATA Transfer",
+      "port_speed": "1Gbit",
+      "price": "$35.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Enterprise Dedicated Servers",
+      "name": "Dual Xeon 5520 240GB SSD + 4TB Preconfig",
+      "cpu": "processors 8 Cores / 16 threads",
+      "ram": "",
+      "storage": "5520 240GB SSD",
+      "bandwidth": "240GB SSD + 4TB Preconfig 2.26GHz 2 processors 8 Cores / 16 threads 64GB DDR3 240GB SSD + 4TB HDD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$35.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Enterprise Dedicated Servers",
+      "name": "32GB DDR3",
+      "cpu": "",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Enterprise Dedicated Servers",
+      "name": "480 SSD + 3TB SATA",
+      "cpu": "",
+      "ram": "",
+      "storage": "3TB SATA",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Enterprise Dedicated Servers",
+      "name": "Transfer:",
+      "cpu": "",
+      "ram": "",
+      "storage": "1Gb",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Enterprise Dedicated Servers",
+      "name": "64GB DDR3",
+      "cpu": "",
+      "ram": "",
+      "storage": "64GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Enterprise Dedicated Servers",
+      "name": "240GB SSD + 4TB HDD",
+      "cpu": "",
+      "ram": "",
+      "storage": "240GB SSD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "AMD Ryzen 7 5800H",
+      "cpu": "Cores/16 Threads 32GB DDR4 1TB NVME",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "32GB DDR4 1TB NVME Transfer",
+      "port_speed": "1Gbit",
+      "price": "$40.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "Dual Xeon E5-2683v4 128GB 2x1TB SSD Preconfig",
+      "cpu": "Xeon E5-2683v4 128GB 2x1TB SSD Preconfig",
+      "ram": "",
+      "storage": "4 128GB ",
+      "bandwidth": "128GB 2x1TB SSD Preconfig 2.1GHz / 3GHz Turbo 32 Cores / 64 threads 128GB DDR4 2x 1TB SSD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$77.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "Dual Xeon Gold 6130 128GB 2TB NVME Preconfig",
+      "cpu": "Xeon Gold 6130 128GB 2TB NVME",
+      "ram": "",
+      "storage": "6130 128GB ",
+      "bandwidth": "128GB 2TB NVME Preconfig 2.1GHz / 3GHz Turbo 32 Cores / 64 threads 128GB DDR4 2TB NVME Transfer",
+      "port_speed": "10Gbit",
+      "price": "$90.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "Dual Xeon E5-2696v3 128GB 2x2TB SSD Preconfig",
+      "cpu": "Xeon E5-2696v3 128GB 2x2TB SSD Preconfig",
+      "ram": "",
+      "storage": "3 128GB ",
+      "bandwidth": "128GB 2x2TB SSD Preconfig 2.30GHz / 3.6GHz Turbo 36 Cores / 72 threads 128GB DDR4 2x 2TB SSD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$100.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "Dual Xeon E5-2696v3 128GB 2x4TB SSD Preconfig",
+      "cpu": "Xeon E5-2696v3 128GB 2x4TB SSD Preconfig",
+      "ram": "",
+      "storage": "3 128GB ",
+      "bandwidth": "128GB 2x4TB SSD Preconfig 2.30GHz / 3.6GHz Turbo 36 Cores / 72 threads 128GB DDR4 2x 4TB SSD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$120.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "Dual Xeon E5-2683v4 256GB 2x4TB SSDs Preconfig",
+      "cpu": "Xeon E5-2683v4 256GB 2x4TB SSDs Preconfig",
+      "ram": "",
+      "storage": "4 256GB ",
+      "bandwidth": "256GB 2x4TB SSDs Preconfig 2.10Ghz / 3.0Ghz Turbo 32 cores / 64 Threads 256GB DDR4 2x 4TB SSD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$200.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "Dual Xeon Plat 8164 256GB 4TB NVME Preconfig",
+      "cpu": "Cores / 104 threads 256GB DDR4",
+      "ram": "",
+      "storage": "8164 256GB ",
+      "bandwidth": "256GB 4TB NVME Preconfig 2.0GHz / 3.8GHz Turbo 52 Cores / 104 threads 256GB DDR4 4TB NVME Transfer",
+      "port_speed": "10Gbit",
+      "price": "$200.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "Dual Xeon Plat 8171M 512GB 8TB NVME Preconfig",
+      "cpu": "Xeon Plat 8171M 512GB 8TB NVME",
+      "ram": "",
+      "storage": "512GB ",
+      "bandwidth": "512GB 8TB NVME Preconfig 2.6GHz / 3.7GHz Turbo 52 Cores / 104 threads 512GB DDR4 8TB NVME Transfer",
+      "port_speed": "10Gbit",
+      "price": "$350.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "Dual Xeon E5-2683v4 512GB 2x8TB SSDs Preconfig",
+      "cpu": "Xeon E5-2683v4 512GB 2x8TB SSDs Preconfig",
+      "ram": "",
+      "storage": "4 512GB ",
+      "bandwidth": "512GB 2x8TB SSDs Preconfig 2.10Ghz / 3.0Ghz Turbo 32 cores / 64 Threads 512GB DDR4 2x 8TB SSD Transfer",
+      "port_speed": "1Gbit",
+      "price": "$400.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "32GB DDR4",
+      "cpu": "",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "1TB NVME",
+      "cpu": "",
+      "ram": "",
+      "storage": "1TB NVME",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "Transfer:",
+      "cpu": "",
+      "ram": "",
+      "storage": "1Gb",
+      "bandwidth": "",
+      "port_speed": "1Gbit",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "128GB DDR4",
+      "cpu": "",
+      "ram": "",
+      "storage": "128GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "2x 1TB SSD",
+      "cpu": "",
+      "ram": "",
+      "storage": "2x 1TB SSD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "2TB NVME",
+      "cpu": "",
+      "ram": "",
+      "storage": "2TB NVME",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "2x 2TB SSD",
+      "cpu": "",
+      "ram": "",
+      "storage": "2x 2TB SSD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "2x 4TB SSD",
+      "cpu": "",
+      "ram": "",
+      "storage": "2x 4TB SSD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "256GB DDR4",
+      "cpu": "",
+      "ram": "",
+      "storage": "256GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "4TB NVME",
+      "cpu": "",
+      "ram": "",
+      "storage": "4TB NVME",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "512GB DDR4",
+      "cpu": "",
+      "ram": "",
+      "storage": "512GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "8TB NVME",
+      "cpu": "",
+      "ram": "",
+      "storage": "8TB NVME",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "High Performance Dedicated Servers",
+      "name": "2x 8TB SSD",
+      "cpu": "",
+      "ram": "",
+      "storage": "2x 8TB SSD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "Intel Core2Duo Preconfigured",
+      "cpu": "Intel Core2Duo Preconfigured 1.6GHz or faster",
+      "ram": "",
+      "storage": "4GB ",
+      "bandwidth": "4GB DDR2 250GB SATA Transfer",
+      "port_speed": "",
+      "price": "$9.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Free"
+      ]
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "Dual Xeon 5150 120GB SSD + 1TB Preconfigured",
+      "cpu": "processors 4 Cores / 4 Threads",
+      "ram": "",
+      "storage": "5150 120GB SSD",
+      "bandwidth": "120GB SSD + 1TB Preconfigured 2.66GHz 2 processors 4 Cores / 4 Threads 16GB DDR2 120GB SSD + 1TB SATA Transfer",
+      "port_speed": "1Gbit",
+      "price": "$15.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "AMD Legacy Quadcore",
+      "cpu": "AMD Legacy Quadcore 3Ghz or faster",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "16GB DDR3 120GB SSD + 2TB SATA Capacity* Transfer",
+      "port_speed": "",
+      "price": "$15.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Free"
+      ]
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "AMD Legacy Sexcore",
+      "cpu": "AMD Legacy Sexcore 2.7Ghz or faster",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "16GB DDR3 120GB SSD + 2TB HDD Capacity Transfer",
+      "port_speed": "",
+      "price": "$20.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": [
+        "Free"
+      ]
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "AMD Legacy Octacore",
+      "cpu": "AMD Legacy Octacore 3.1Ghz / 3.4Ghz",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "32GB DDR3 480GB SSD + 4TB SATA Transfer",
+      "port_speed": "",
+      "price": "$35.00",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "4GB DDR2",
+      "cpu": "",
+      "ram": "",
+      "storage": "4GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "250GB SATA",
+      "cpu": "",
+      "ram": "",
+      "storage": "250GB SATA",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "Transfer:",
+      "cpu": "",
+      "ram": "",
+      "storage": "",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "16GB DDR2",
+      "cpu": "",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "120GB SSD + 1TB SATA",
+      "cpu": "",
+      "ram": "",
+      "storage": "120GB SSD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "16GB DDR3",
+      "cpu": "",
+      "ram": "",
+      "storage": "16GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "120GB SSD + 2TB SATA Capacity*",
+      "cpu": "",
+      "ram": "",
+      "storage": "120GB SSD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "120GB SSD + 2TB HDD Capacity",
+      "cpu": "",
+      "ram": "",
+      "storage": "120GB SSD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "32GB DDR3",
+      "cpu": "",
+      "ram": "",
+      "storage": "32GB ",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    },
+    {
+      "category": "Legacy And Budget Dedicated Servers",
+      "name": "480GB SSD + 4TB SATA",
+      "cpu": "",
+      "ram": "",
+      "storage": "480GB SSD",
+      "bandwidth": "",
+      "port_speed": "",
+      "price": "",
+      "ipv4": "",
+      "location": "",
+      "additional_features": []
+    }
+  ]
+}
