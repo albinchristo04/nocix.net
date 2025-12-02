@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2025-12-01T16:33:43.625505",
-  "total_servers": 65,
+  "scraped_at": "2025-12-02T03:18:05.947589",
+  "total_servers": 64,
   "servers": [
     {
       "category": "Dedicated Servers",
@@ -165,26 +165,6 @@
     {
       "category": "Dedicated Servers",
       "processor": {
-        "name": "Xeon E3-1230v2 480GB SSD Preconfig",
-        "speed": "3.2GHz",
-        "cores": "4",
-        "threads": "8"
-      },
-      "ram": "32GB DDR3",
-      "storage": "500GB SSD",
-      "bandwidth": "1Gbit unmetered",
-      "port_speed": "",
-      "ipv4_addresses": "5 usable IPv4",
-      "ipv6_addresses": "/64 IPv6 Block",
-      "location": "",
-      "price": "$25.00/month",
-      "instant_deployment": true,
-      "free_setup": true,
-      "additional_features": []
-    },
-    {
-      "category": "Dedicated Servers",
-      "processor": {
         "name": "Dual Xeon 5420 240GB SSD + 2TB Preconfigured",
         "speed": "2.5GHz",
         "cores": "8",
@@ -198,6 +178,26 @@
       "ipv6_addresses": "/64 IPv6 Block",
       "location": "",
       "price": "$25.00/month",
+      "instant_deployment": true,
+      "free_setup": true,
+      "additional_features": []
+    },
+    {
+      "category": "Dedicated Servers",
+      "processor": {
+        "name": "Xeon E3-1240v2 480GB SSD + 4TB Preconfig",
+        "speed": "3.4GHz",
+        "cores": "4",
+        "threads": "8"
+      },
+      "ram": "16GB DDR3",
+      "storage": "480GB SSD + 4TB",
+      "bandwidth": "1Gbit unmetered",
+      "port_speed": "",
+      "ipv4_addresses": "5 usable IPv4",
+      "ipv6_addresses": "/64 IPv6 Block",
+      "location": "",
+      "price": "$35.00/month",
       "instant_deployment": true,
       "free_setup": true,
       "additional_features": []
@@ -465,26 +465,6 @@
     {
       "category": "Dedicated Servers",
       "processor": {
-        "name": "I3-3220 2TB Preconfigured",
-        "speed": "3.3GHz",
-        "cores": "2",
-        "threads": "4"
-      },
-      "ram": "16GB DDR3",
-      "storage": "2TB",
-      "bandwidth": "1Gbit unmetered",
-      "port_speed": "",
-      "ipv4_addresses": "5 usable IPv4",
-      "ipv6_addresses": "/64 IPv6 Block",
-      "location": "",
-      "price": "$20.00/month",
-      "instant_deployment": true,
-      "free_setup": true,
-      "additional_features": []
-    },
-    {
-      "category": "Dedicated Servers",
-      "processor": {
         "name": "i5-750 Preconfigured",
         "speed": "2.7GHz",
         "cores": "4",
@@ -565,26 +545,6 @@
     {
       "category": "Dedicated Servers",
       "processor": {
-        "name": "i7-8700K 32GB + 2x480GB SSD Preconfig",
-        "speed": "3.7GHz",
-        "cores": "6",
-        "threads": "12"
-      },
-      "ram": "32GB DDR4",
-      "storage": "2x 480gb SSD",
-      "bandwidth": "1Gbit unmetered",
-      "port_speed": "",
-      "ipv4_addresses": "5 usable IPv4",
-      "ipv6_addresses": "/64 IPv6 Block",
-      "location": "",
-      "price": "$75.00/month",
-      "instant_deployment": true,
-      "free_setup": true,
-      "additional_features": []
-    },
-    {
-      "category": "Dedicated Servers",
-      "processor": {
         "name": "Ryzen 5 3500X Custom",
         "speed": "3.6GHz",
         "cores": "6",
@@ -598,6 +558,28 @@
       "ipv6_addresses": "/64 IPv6 Block",
       "location": "",
       "price": "$59.00/month",
+      "instant_deployment": false,
+      "free_setup": true,
+      "additional_features": [
+        "Customizable"
+      ]
+    },
+    {
+      "category": "Dedicated Servers",
+      "processor": {
+        "name": "Ryzen 7 3800X Custom",
+        "speed": "3.9GHz",
+        "cores": "8",
+        "threads": "16"
+      },
+      "ram": "32GB RAM",
+      "storage": "4TB HDD",
+      "bandwidth": "1Gbit unmetered",
+      "port_speed": "",
+      "ipv4_addresses": "5 usable IPv4",
+      "ipv6_addresses": "/64 IPv6 Block",
+      "location": "",
+      "price": "$69.00/month",
       "instant_deployment": false,
       "free_setup": true,
       "additional_features": [
