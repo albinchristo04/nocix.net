@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2025-12-02T03:18:05.947589",
-  "total_servers": 64,
+  "scraped_at": "2025-12-03T03:16:47.061217",
+  "total_servers": 67,
   "servers": [
     {
       "category": "Dedicated Servers",
@@ -178,6 +178,26 @@
       "ipv6_addresses": "/64 IPv6 Block",
       "location": "",
       "price": "$25.00/month",
+      "instant_deployment": true,
+      "free_setup": true,
+      "additional_features": []
+    },
+    {
+      "category": "Dedicated Servers",
+      "processor": {
+        "name": "Xeon E3-1270 480GB SSD + 4TB Preconfig",
+        "speed": "3.4GHz",
+        "cores": "4",
+        "threads": "8"
+      },
+      "ram": "16GB DDR3",
+      "storage": "480GB SSD + 4TB Preconfig",
+      "bandwidth": "1Gbit unmetered",
+      "port_speed": "",
+      "ipv4_addresses": "5 usable IPv4",
+      "ipv6_addresses": "/64 IPv6 Block",
+      "location": "",
+      "price": "$35.00/month",
       "instant_deployment": true,
       "free_setup": true,
       "additional_features": []
@@ -465,6 +485,26 @@
     {
       "category": "Dedicated Servers",
       "processor": {
+        "name": "I3-3220 2TB Preconfigured",
+        "speed": "3.3GHz",
+        "cores": "2",
+        "threads": "4"
+      },
+      "ram": "16GB DDR3",
+      "storage": "2TB",
+      "bandwidth": "1Gbit unmetered",
+      "port_speed": "",
+      "ipv4_addresses": "5 usable IPv4",
+      "ipv6_addresses": "/64 IPv6 Block",
+      "location": "",
+      "price": "$20.00/month",
+      "instant_deployment": true,
+      "free_setup": true,
+      "additional_features": []
+    },
+    {
+      "category": "Dedicated Servers",
+      "processor": {
         "name": "i5-750 Preconfigured",
         "speed": "2.7GHz",
         "cores": "4",
@@ -567,12 +607,12 @@
     {
       "category": "Dedicated Servers",
       "processor": {
-        "name": "Ryzen 7 3800X Custom",
-        "speed": "3.9GHz",
-        "cores": "8",
-        "threads": "16"
+        "name": "Ryzen 5 5600X Custom",
+        "speed": "3.7GHz",
+        "cores": "6",
+        "threads": "12"
       },
-      "ram": "32GB RAM",
+      "ram": "32GB",
       "storage": "4TB HDD",
       "bandwidth": "1Gbit unmetered",
       "port_speed": "",
@@ -589,19 +629,19 @@
     {
       "category": "Dedicated Servers",
       "processor": {
-        "name": "Ryzen 5 5600X Custom",
-        "speed": "3.7GHz",
-        "cores": "6",
-        "threads": "12"
+        "name": "Ryzen 7 5800X Custom",
+        "speed": "3.8GHz",
+        "cores": "8",
+        "threads": "16"
       },
-      "ram": "32GB",
+      "ram": "32GB RAM",
       "storage": "4TB HDD",
       "bandwidth": "1Gbit unmetered",
       "port_speed": "",
       "ipv4_addresses": "5 usable IPv4",
       "ipv6_addresses": "/64 IPv6 Block",
       "location": "",
-      "price": "$69.00/month",
+      "price": "$79.00/month",
       "instant_deployment": false,
       "free_setup": true,
       "additional_features": [
@@ -646,6 +686,28 @@
       "ipv6_addresses": "/64 IPv6 Block",
       "location": "",
       "price": "$15.00/month",
+      "instant_deployment": false,
+      "free_setup": true,
+      "additional_features": [
+        "Customizable"
+      ]
+    },
+    {
+      "category": "Dedicated Servers",
+      "processor": {
+        "name": "Dual Xeon 5420 Custom",
+        "speed": "2.5GHz",
+        "cores": "8",
+        "threads": "8"
+      },
+      "ram": "16GB DDR2 ECC",
+      "storage": "1TB HDD",
+      "bandwidth": "1Gbit unmetered",
+      "port_speed": "",
+      "ipv4_addresses": "5 usable IPv4",
+      "ipv6_addresses": "/64 IPv6 Block",
+      "location": "",
+      "price": "$20.00/month",
       "instant_deployment": false,
       "free_setup": true,
       "additional_features": [
