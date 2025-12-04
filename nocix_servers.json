@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2025-12-03T03:16:47.061217",
-  "total_servers": 67,
+  "scraped_at": "2025-12-04T03:18:43.102289",
+  "total_servers": 65,
   "servers": [
     {
       "category": "Dedicated Servers",
@@ -165,6 +165,26 @@
     {
       "category": "Dedicated Servers",
       "processor": {
+        "name": "Xeon E3-1220v1 Preconfigured",
+        "speed": "3.1GHz",
+        "cores": "4",
+        "threads": "4"
+      },
+      "ram": "32GB DDR3",
+      "storage": "240GB SSD",
+      "bandwidth": "1Gbit unmetered",
+      "port_speed": "",
+      "ipv4_addresses": "5 usable IPv4",
+      "ipv6_addresses": "/64 IPv6 Block",
+      "location": "",
+      "price": "$20.00/month",
+      "instant_deployment": true,
+      "free_setup": true,
+      "additional_features": []
+    },
+    {
+      "category": "Dedicated Servers",
+      "processor": {
         "name": "Dual Xeon 5420 240GB SSD + 2TB Preconfigured",
         "speed": "2.5GHz",
         "cores": "8",
@@ -178,46 +198,6 @@
       "ipv6_addresses": "/64 IPv6 Block",
       "location": "",
       "price": "$25.00/month",
-      "instant_deployment": true,
-      "free_setup": true,
-      "additional_features": []
-    },
-    {
-      "category": "Dedicated Servers",
-      "processor": {
-        "name": "Xeon E3-1270 480GB SSD + 4TB Preconfig",
-        "speed": "3.4GHz",
-        "cores": "4",
-        "threads": "8"
-      },
-      "ram": "16GB DDR3",
-      "storage": "480GB SSD + 4TB Preconfig",
-      "bandwidth": "1Gbit unmetered",
-      "port_speed": "",
-      "ipv4_addresses": "5 usable IPv4",
-      "ipv6_addresses": "/64 IPv6 Block",
-      "location": "",
-      "price": "$35.00/month",
-      "instant_deployment": true,
-      "free_setup": true,
-      "additional_features": []
-    },
-    {
-      "category": "Dedicated Servers",
-      "processor": {
-        "name": "Xeon E3-1240v2 480GB SSD + 4TB Preconfig",
-        "speed": "3.4GHz",
-        "cores": "4",
-        "threads": "8"
-      },
-      "ram": "16GB DDR3",
-      "storage": "480GB SSD + 4TB",
-      "bandwidth": "1Gbit unmetered",
-      "port_speed": "",
-      "ipv4_addresses": "5 usable IPv4",
-      "ipv6_addresses": "/64 IPv6 Block",
-      "location": "",
-      "price": "$35.00/month",
       "instant_deployment": true,
       "free_setup": true,
       "additional_features": []
@@ -518,26 +498,6 @@
       "ipv6_addresses": "/64 IPv6 Block",
       "location": "",
       "price": "$20.00/month",
-      "instant_deployment": true,
-      "free_setup": true,
-      "additional_features": []
-    },
-    {
-      "category": "Dedicated Servers",
-      "processor": {
-        "name": "I7-4790 Preconfigured",
-        "speed": "3.6GHz",
-        "cores": "4",
-        "threads": "8"
-      },
-      "ram": "16GB DDR3",
-      "storage": "500GB HDD",
-      "bandwidth": "1Gbit unmetered",
-      "port_speed": "",
-      "ipv4_addresses": "5 usable IPv4",
-      "ipv6_addresses": "/64 IPv6 Block",
-      "location": "",
-      "price": "$30.00/month",
       "instant_deployment": true,
       "free_setup": true,
       "additional_features": []
